@@ -14,7 +14,7 @@ Tom/Usarneme <jamestcoop@gmail.com>
 
 ### Project Description
 
-This project is a web application that allows the visitor to check out art from different parts of the world. For the MVP we are focusing on four regions: Malian, East Asian, Latin American, and European art.
+This project is a web application that allows the visitor to check out art from different parts of the world. For the MVP we are focusing on four regions: African, East Asian, Latin American, and European art.
 
 ---
 ### Tech Stack
@@ -30,30 +30,22 @@ This project is a web application that allows the visitor to check out art from 
 
 ### Project Build Available At:
 
-[BUILD URL](BUILD URL)
+[http://art_explorer.surge.sh/](http://art_explorer.surge.sh/)
 
 ---
 ### Installation Instructions
-1. Clone this repo: `git clone https://github.com/Usarneme/REPO URL`
-2. Enter new directory `cd REPO DIR`
+1. Clone this repo: `git clone https://github.com/Usarneme/art_explorer`
+2. Enter new directory `cd art_explorer`
 3. Install dependencies with `npm install`
 4. To run it locally, use the npm dev command `npm run start:dev`
-5. Open your web browser and navigate to http://localhost:9001
+5. Open your web browser and navigate to http://localhost:8081
 6. For a production build, use `npm run build`
 ---
 ### Known Issues:
 1. NO KNOWN ISSUES
 2. Please open a pull request if you have any issues!
 ---
-### Test Suite/Specification
 
-> See also [the Jest Test File](TESTSURL) for Jest Test Suite which includes 14 passing tests. View Test Results from Project Directory by Running `yarn run test` or if you prefer npm `npm run test`
-
-```
-Describe: TESTS
-
-```
----
 ### License is GPLv3 and I make no claim to copyright.
 <br />
 
