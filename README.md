@@ -45,16 +45,9 @@ This project is a web application that allows the visitor to check out art from 
 ### Known Issues:
 1. NO KNOWN ISSUES
 2. Please open a pull request if you have any issues!
-<<<<<<< HEAD
----
-
-### License is GPLv3 and I make no claim to copyright.
-=======
-
 
 ---
 ### License is GPLv3 and we make no claim to copyright.
->>>>>>> f961cb68d5de7e4b5e36817609cc2560b01cd07b
 <br />
 
 > You can't steal what is freely given. Enjoy!
